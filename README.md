@@ -9,14 +9,14 @@
 1. Open the XAMPP Control Panel (search for it in the Windows search bar).
 2. Start both **Apache** and **MySQL**.
 - If they start successfully, green indicators will appear next to them.
-![WhatsApp Image 2024-09-22 at 13 42 17](https://github.com/user-attachments/assets/e4b8eae4-2d97-4514-b13c-1ae438b5cf08)
+![WhatsApp Image 2024-09-22 at 13 42 17](https://github.com/Rajiunnabi/A103/blob/220630e17edd5b33756ab5e5df6edbfb1bcaadf7/WhatsApp%20Image%202024-09-22%20at%2013.42.17%20(2).jpeg)
 
 
 > **Troubleshooting:** If you encounter any issues during this step, refer to [this video tutorial](https://www.youtube.com/watch?v=ipMedkjMupw).
 
 ### Step 2: Configure MySQL
 1. In the XAMPP Control Panel, click on **Admin** next to MySQL.
-![WhatsApp Image 2024-09-22 at 13 42 17 (1)](https://github.com/user-attachments/assets/930cb05c-dbfa-4ab0-bf99-0513774eb863)
+![WhatsApp Image 2024-09-22 at 13 42 17 (1)](WhatsApp Image 2024-09-22 at 13.42.17 (3).jpeg)
 2. Go to the **SQL** section.
 ![WhatsApp Image 2024-09-22 at 13 42 18](https://github.com/user-attachments/assets/6ce83b9f-8ed3-4cac-83d3-f6d680c4b09e)  
 3. Copy the SQL code from [this link](https://codeshare.io/0b7gol).
