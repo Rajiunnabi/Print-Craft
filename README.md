@@ -29,10 +29,10 @@ This will create the necessary database for the project.
 1. Navigate to the XAMPP installation folder.
 ![Screenshot 2024-09-22 141710](https://github.com/Rajiunnabi/Print-Craft/blob/646dfe94ecda991d9d52028ad9af99496591e314/WhatsApp%20Image%202024-09-22%20at%2013.42.18%20(6).jpeg)
 2. Open the **htdocs** folder.
-![WhatsApp Image 2024-09-22 at 13 42 18 (3)](https://github.com/user-attachments/assets/870a5b12-225d-4516-80fa-d431e0d1af25)
+![WhatsApp Image 2024-09-22 at 13 42 18 (3)](https://github.com/Rajiunnabi/Print-Craft/blob/927875f569a8ef4b325167f9305d1c02965ed1f8/WhatsApp%20Image%202024-09-22%20at%2013.42.18%20(7).jpeg)
 3. Download the project files from the repository.
 4. Extract the downloaded ZIP file and place it in the **htdocs** folder.
-![WhatsApp Image 2024-09-22 at 13 42 19](https://github.com/Rajiunnabi/Print-Craft/blob/646dfe94ecda991d9d52028ad9af99496591e314/WhatsApp%20Image%202024-09-22%20at%2013.42.18%20(7).jpeg)
+![WhatsApp Image 2024-09-22 at 13 42 19](https://github.com/Rajiunnabi/Print-Craft/blob/927875f569a8ef4b325167f9305d1c02965ed1f8/WhatsApp%20Image%202024-09-22%20at%2013.42.19%20(6).jpeg)
 
 
 ### Step 4: Launch the Project
